@@ -1,0 +1,16 @@
+﻿Сборка начата 08.02.2017 11:58:17.
+     1>Проект "E:\УЧЁБА\2 Курс\2 семестр\Компьтерная геометрия и графика\Лабы\Win32Project1\Win32Project1\Win32Project1.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _CRT_SECURE_NO_WARNINGS /D WIN32 /D _DEBUG /D _WINDOWS /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt LibGraph.cpp
+         LibGraph.cpp
+         _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\УЧЁБА\2 Курс\2 семестр\Компьтерная геометрия и графика\Лабы\Win32Project1\Debug\Win32Project1.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"E:\УЧЁБА\2 Курс\2 семестр\Компьтерная геометрия и графика\Лабы\Win32Project1\Debug\Win32Project1.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\УЧЁБА\2 Курс\2 семестр\Компьтерная геометрия и графика\Лабы\Win32Project1\Debug\Win32Project1.lib" /MACHINE:X86 Debug\CMatrix.obj
+         Debug\L1.obj
+         Debug\LibGraph.obj
+         Win32Project1.vcxproj -> E:\УЧЁБА\2 Курс\2 семестр\Компьтерная геометрия и графика\Лабы\Win32Project1\Debug\Win32Project1.exe
+     1>Сборка проекта "E:\УЧЁБА\2 Курс\2 семестр\Компьтерная геометрия и графика\Лабы\Win32Project1\Win32Project1\Win32Project1.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:02.48
